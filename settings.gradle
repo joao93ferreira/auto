@@ -1,0 +1,2 @@
+rootProject.name = "A2C2F_FaceRecognition"
+include ':app'
